@@ -1,7 +1,7 @@
 import requests
 from sys import argv
 
-API_KEY = '8e397861b5134d15832fcc211dfa2835'
+API_KEY = 'yourkullanıcıadı'
 
 URL = 'https://newsapi.org/v2/top-headlines?'
 
